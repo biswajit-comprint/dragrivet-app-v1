@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/dragrivet-v1-react/static/css/main.f1945f06.css",
+    "main.js": "/dragrivet-v1-react/static/js/main.6d22dfdd.js",
+    "static/js/787.4e3e3d09.chunk.js": "/dragrivet-v1-react/static/js/787.4e3e3d09.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/dragrivet-v1-react/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/dragrivet-v1-react/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/dragrivet-v1-react/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/dragrivet-v1-react/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/dragrivet-v1-react/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/dragrivet-v1-react/index.html",
+    "main.f1945f06.css.map": "/dragrivet-v1-react/static/css/main.f1945f06.css.map",
+    "main.6d22dfdd.js.map": "/dragrivet-v1-react/static/js/main.6d22dfdd.js.map",
+    "787.4e3e3d09.chunk.js.map": "/dragrivet-v1-react/static/js/787.4e3e3d09.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1945f06.css",
+    "static/js/main.6d22dfdd.js"
+  ]
+}
